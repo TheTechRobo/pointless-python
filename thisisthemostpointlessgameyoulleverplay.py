@@ -9,6 +9,7 @@ try:
             int(input()) #ask for a number
         except ValueError: #if they enter text instead of a number
             print("I asked for a number!")
+            break
         print("Nope, that's not right.\nGuess again!")
         
 except KeyboardInterrupt: #if someone does Ctrl-C
