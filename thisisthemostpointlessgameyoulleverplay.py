@@ -13,4 +13,4 @@ try:
         print("Nope, that's not right.\nGuess again!")
         
 except KeyboardInterrupt: #if someone does Ctrl-C
-    print(":(")
+    print("\n:(")
