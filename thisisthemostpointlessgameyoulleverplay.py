@@ -1,4 +1,4 @@
-from random import randinit as r
+from random import randint as r
 
 try:
     while True: #loop endlessly
