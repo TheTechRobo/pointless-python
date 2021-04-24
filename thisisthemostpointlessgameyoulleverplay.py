@@ -1,7 +1,7 @@
 from random import randint as r
 from sys import exit
 n1 = r(0,12489) #random number from 0 to 12489
-n2 = r(0,12489)
+n2 = r(0,10489)
 exit = False
 
 try:
